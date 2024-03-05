@@ -40,11 +40,11 @@ function LoginForm() {
       </div>
 
       <ButtonWraper>
-        <Button type='primary' htmlType='submit' loading={logInLoading}>
+        <Button type='primary' htmlType='submit' loading={logInLoading} style={{ width: '50%' }}>
           로그인
         </Button>
         <Link href='/signup'>
-          <Button>회원가입</Button>
+          <Button style={{ width: '50%' }}>회원가입</Button>
         </Link>
       </ButtonWraper>
     </FormWrapper>
@@ -55,6 +55,10 @@ export default LoginForm;
 
 const ButtonWraper = styled.div`
   margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 10px;
 `;
 
 const FormWrapper = styled(Form)`
