@@ -12,3 +12,22 @@
 
 ### Backend
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue"><img src="https://img.shields.io/badge/Passport-34E27A?style=for-the-badge&logo=Passport&logoColor=blue">
+
+
+## 시연 영상
+- 로그인 / 로그아웃
+- 회원가입
+- 게시글 작성 및 삭제
+- 댓글 작성 및 삭제
+- 팔로우 / 언팔로우
+- 다른 회원 정보 조회
+- 리트윗
+- 회원정보 수정
+
+
+https://github.com/yngjnhykk/NNN/assets/143480840/c06c70bf-a905-4a93-965c-ecf1da5380b6
+
+
+### 그 외 기능들
+- Infinite Scroll(게시글, 팔로우 목록)
+- 반응형 페이지
