@@ -1,0 +1,54 @@
+{
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "ecmaVersion": 2020,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "env": {
+    "browser": true,
+    "node": true,
+    "es6": true
+  },
+  "extends": ["airbnb"],
+  "plugins": ["import", "react-hooks", "jsx-a11y"],
+  "rules": {
+    "jsx-a11y/label-has-associated-control": "off",
+    "jsx-a11y/anchor-is-valid": "off",
+    "no-console": "off",
+    "no-underscore-dangle": "off",
+    "react/forbid-prop-types": "off",
+    "react/jsx-filename-extension": "off",
+    "react/jsx-one-expression-per-line": "off",
+    "object-curly-newline": "off",
+    "linebreak-style": "off",
+    "no-param-reassign": "off",
+    "react/react-in-jsx-scope": "off",
+    "react/function-component-definition": [2, { "namedComponents": ["arrow-function", "function-declaration"] }],
+    "jsx-quotes": [2, "prefer-single"],
+    "max-len": ["error", { "code": 200 }],
+    "no-alert": "off",
+    "implict-arrow-linebreak": "off",
+    "arrow-body-style": "off",
+    "react/jsx-props-no-spreading": "off",
+    "import/no-unresolved": 0,
+    "react/jsx-wrap-multilines": "off",
+    "no-unnecessary-boolean-literal-compare": "off"
+    // "no-param-reassign": "off",
+    // "import/no-duplicates": ["error", { "prefer-inline": true }]  typescript 오류
+    // "jsx-a11y/label-has-associated-control": "off",
+    // "jsx-a11y/anchor-is-valid": "off",
+    // "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+    // "no-console": "off",
+    // "no-underscore-dangle": "off",
+    // "react/forbid-prop-types": "off",
+    // "react/jsx-one-expression-per-line": "off",
+    // "object-curly-newline": "off",
+    // "linebreak-style": "off",
+    // "react/jsx-props-no-spreading": 0,
+    // "import/no-unresolved": 0,
+    // "react/jsx-closing-bracket-location": "warn"
+  }
+}

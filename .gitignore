@@ -1,0 +1,7 @@
+# Serverless directories
+.serverlses
+/front/build
+NNN.pem
+node_modules
+.next
+.env
