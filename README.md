@@ -8,17 +8,7 @@
 
 ## 기술 스택
 ### Frontend
-<img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white"><img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"><img src="https://img.shields.io/badge/Redux-Saga-999999?style=for-the-badge&logo=Redux-Saga&logoColor=white"><img src="https://img.shields.io/badge/Redux Query-FF4154?style=for-the-badge&logo=Redux Query&logoColor=white"><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 
 ### Backend
-
-
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue"><img src="https://img.shields.io/badge/Passport-34E27A?style=for-the-badge&logo=Passport&logoColor=blue">
